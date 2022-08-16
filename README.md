@@ -15,5 +15,7 @@ Prerequisites:
 To compile:
 
 ```bash
-> make
+mkdir build && cd build
+/opt/devkitpro/portlibs/wiiu/bin/powerpc-eabi-cmake ../
+make
 ```

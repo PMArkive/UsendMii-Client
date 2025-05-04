@@ -6,7 +6,7 @@ find_package(PkgConfig REQUIRED)
 include(FetchContent)
 FetchContent_Declare(
   inih
-  URL https://github.com/benhoyt/inih/archive/refs/tags/r58.tar.gz
+  URL https://github.com/benhoyt/inih/archive/refs/tags/r60.tar.gz
 )
 FetchContent_Declare(
   rapidjson
